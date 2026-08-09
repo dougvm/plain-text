@@ -16,4 +16,4 @@ Nowadays, that is actually what is still going on... we just got really good at 
 To put microscopic versus nanoscopic into reference, imagine using a microscope to zoom in on a single human red blood cell (which is microscopic):
 - If that red blood cell was a football stadium, a nanoscopic particle (like a strand of DNA) inside it would be the size of a football on the field.
 
-That means whenever you do 1 + 1 on a calculator program on your computer, phone, or really anything that can calculate math is using some form of these mini women workers that take the inputs/outputs of your math equation, store their inputs/results in their memory, and relay back to you (the user) what the answer was.
+That means whenever you do 1 + 1 on a calculator program on your computer, phone, or really anything that can calculate math on, is using some form of these mini women workers. These hard workers take the inputs/outputs of your math equation, store their inputs/results in their memory, and relay back to you (the user) what the answer was. Much like the women back in the day would do, albeit in a much more mentally/physically grueling process in my opinion.
