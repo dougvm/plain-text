@@ -1,4 +1,5 @@
-# Software / Hardware Basics
+# Glossary
+## Software / Hardware Basics
 Computer:
 Processor:
 Memory:
@@ -9,12 +10,12 @@ Software:
 Hardware:  
 Firmware:  
 
-# Cybersecurity
+## Cybersecurity
 Malware:  
 Encryption: 
 Cybersecurity:  
 
-# Networking
+## Networking
 Network: 
 Internet:  
 Ethernet:  
