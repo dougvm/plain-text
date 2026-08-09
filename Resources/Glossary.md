@@ -1,19 +1,20 @@
 # Glossary
 ## Software / Hardware Basics
 Computer:
+Input:
+Output:
 Processor:
 Memory:
 Network:
-Input:
-Output:
+
 Software:  
 Hardware:  
 Firmware:  
+Malware:  
 
 ## Cybersecurity
-Malware:  
-Encryption: 
 Cybersecurity:  
+Encryption: 
 
 ## Networking
 Network: 
