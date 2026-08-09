@@ -19,7 +19,7 @@ This guide is free and open to everyone — no account, no paywall, no catch. Sk
 ## Table of Contents
 
 ### 🛠️ The Basics, Explained
-- [How Computers Actually Work]("1 - The Basics"/Computers.md) — the short version
+- [How Computers Actually Work](1%20-%20The%20Basics/Computers.md) — the short version
 - [Common Tech Terms, Decoded](#)
 - [Glossary](#)
 
