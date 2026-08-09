@@ -13,6 +13,9 @@ Ever since then, I have spent nearly every year of life learning how to become, 
 
 This guide is free and open to everyone — no account, no paywall, no catch. Skip straight to whatever's on your mind using the list below. The rest will be here when you need it.
 
+**Note:** Lost on GitHub and want to traverse through this project more like you would an actual website? You can browse via the link below:  
+[https://dougvm.github.io/plain-text/](https://dougvm.github.io/plain-text/)
+
 ## Table of Contents
 
 ### 🛠️ The Basics, Explained
