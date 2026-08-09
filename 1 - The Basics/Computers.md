@@ -1,6 +1,6 @@
 # How Computers Actually Work - The Short Version
 
-## Terms used in this lesson
+## Terms to Learn (See [Glossary](../Resources/glossary.md) for all)
 - Computer: 
 - Processor: 
 - Memory: 
