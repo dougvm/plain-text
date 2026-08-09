@@ -1,11 +1,11 @@
 # Glossary
 ## Software / Hardware Basics
-Computer:
-Input:
-Output:
-Processor:
-Memory:
-Network:
+Computer:  
+Input:  
+Output:  
+Processor:  
+Memory:  
+Network:  
 
 Software:  
 Hardware:  
