@@ -1,4 +1,14 @@
 # How Computers Actually Work - The Short Version
+
+## Glossary
+- Computer: 
+- Processor: 
+- Memory: 
+- Network: 
+- Input: 
+- Output: 
+
+## 1. Introduction to Computers
 Back in the day, computers were actual human beings who just did math for other human beings. Think of it like a call center but instead it was basically just clusters of women doing math.  
 
 Nowadays, that is actually what is still going on... we just got really good at making those women far more mechanical, made of silicon, and microscopically small. Actually, sometimes they're nanoscopically small! Just to specify, nanoscopic is roughly 1,000 times smaller than microscopic. That number probably still means nothing to you, because a majority of humans don't ever need (or want) to use those kinds of measurements ever, plenty already struggle with tsp versus tbsp! To give you a better idea of just how small we made these computing women, let me try and specify below.
