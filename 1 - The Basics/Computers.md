@@ -20,3 +20,5 @@ As someone with terrible eyesight who could barely see a football on a field if 
 
 That means whenever you do 1 + 1 on a calculator program on your computer, phone, or really anything that can calculate math on, is using some form of these mini women workers. These hard workers take the inputs/outputs of your math equation, store their inputs/results in their memory, and relay back to you (the user) what the answer was. Much like the women back in the day would do, albeit in a much more mentally/physically grueling process in my opinion.
 
+## Additional Resources
+[![Basics Explained: How Computers Work, Compilation Video of Basics Explained](https://img.youtube.com/vi/Rv73ki6fTuo/hqdefault.jpg)](https://www.youtube.com/watch?v=Rv73ki6fTuo)
