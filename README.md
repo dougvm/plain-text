@@ -1,9 +1,12 @@
 # plain-text: A Guide to Understanding Modern Technology.
 > *Have you or someone you know been struggling with technology?*
 
-> *Perhaps you're scared of getting hacked, losing all of your money, and don't know how to defend yourself enough anymore?*  
+> *Perhaps you're scared of getting hacked, losing all of your money, and don't know how to defend yourself enough anymore?*
+
 > *Find yourself double-checking every email, every link, every call, just in case it's a scam?*  
-> *Feel like keeping up with new apps and platforms is basically a part-time job now?*  
+
+> *Feel like keeping up with new apps and platforms is basically a part-time job now?*
+
 > *Worried about what your kid is seeing online — but not sure where to even start looking?*  
 
 If any of these sentiments apply to you, I hope this finds you well and I'm beyond glad that you're reading this! My name is Doug Metz, I am a self-proclaimed nerd who has been using technology since my family shoved me in front of a PlayStation when I was a child in the early 2000s.  
