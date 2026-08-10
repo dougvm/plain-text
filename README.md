@@ -1,5 +1,6 @@
 # plain-text: A Guide to Understanding Modern Technology.
-> *Have you or someone you know been struggling with technology?*  
+> *Have you or someone you know been struggling with technology?*
+
 > *Perhaps you're scared of getting hacked, losing all of your money, and don't know how to defend yourself enough anymore?*  
 > *Find yourself double-checking every email, every link, every call, just in case it's a scam?*  
 > *Feel like keeping up with new apps and platforms is basically a part-time job now?*  
