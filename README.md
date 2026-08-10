@@ -113,4 +113,4 @@ This guide is free and open to everyone — no account, no paywall, no catch. Sk
 🌱 **This guide is actively growing.** Found something missing, outdated, or confusing? [Open an issue](#) or [submit a pull request](#) — no tech background required, typo fixes and topic suggestions are just as welcome as full pages.
 
 
-<sub>📅 Last updated: [August 2026] 📄 Licensed under [CC BY 4.0](#) — copy, share, and remix freely.  </sub>  
+<sub>📅 Last updated: [August 2026] Licensed under [CC BY 4.0](#) — copy, share, and remix freely.  </sub>  
