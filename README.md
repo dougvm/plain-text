@@ -1,4 +1,5 @@
-# plain-text: A Guide to Understanding Modern Technology.
+# -- plain-text --
+A Handbook For Learning How To Navigate The Digital World.
 > *Have you or someone you know been struggling with technology?*  
 > *Perhaps you're scared of getting hacked, losing all of your money, and don't know how to defend yourself enough anymore?*  
 > *Find yourself double-checking every email, every link, every call, just in case it's a scam?*  
@@ -14,7 +15,9 @@ Ever since then, I have spent nearly every year of life learning how to become, 
 This guide is free and open to everyone — no account, no paywall, no catch. Skip straight to whatever's on your mind using the list below. The rest will be here when you need it.
 
 <sub>**Note:** Lost on GitHub and want to traverse through this project more like you would an actual website? GitHub has a feature called [GitHub Pages](https://docs.github.com/en/pages), which you can use to browse. See the link below:  
-[https://dougvm.github.io/plain-text/](https://dougvm.github.io/plain-text/)</sub>
+[https://dougvm.github.io/plain-text/](https://dougvm.github.io/plain-text/)</sub>  
+
+<sub>**Note:** some links might be broken, I'm working on improving that!</sub>
 
 ## Table of Contents
 
@@ -32,8 +35,8 @@ This guide is free and open to everyone — no account, no paywall, no catch. Sk
 
 ### For Children
 - [How to protect yourself and your family.](#)
-- [](#)
-- [](#)
+- [Mental Health Resources](#)
+- [Abusive Situations and Resources for Child Abuse](#)
 
 
 ### 👨‍👩‍👧 For Parents
