@@ -61,4 +61,4 @@ This video slowly and simply goes over through the following regarding the basic
 This video goes much faster than the last, but still does a good job at briefly describing similar things, although from more of an advanced perspective.
 I highly recommend to those aiming to be more technical and want a good list of things to further learn about.
 ```
-[![Basics Explained: How Computers Work, Compilation Video of Basics Explained](https://img.youtube.com/vi/CxGSnA-RTsA/hqdefault.jpg)](https://www.youtube.com/watch?v=CxGSnA-RTsA)
+[![YouTube (Basics Explained): How Computers Work, Compilation Video of Basics Explained](https://img.youtube.com/vi/CxGSnA-RTsA/hqdefault.jpg)](https://www.youtube.com/watch?v=CxGSnA-RTsA)

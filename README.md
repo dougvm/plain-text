@@ -15,6 +15,7 @@ This guide is free and open to everyone — no account, no paywall, no catch. Sk
 
 <sub>**Note:** Lost on GitHub and want to traverse through this project more like you would an actual website? GitHub has a feature called [GitHub Pages](https://docs.github.com/en/pages), which you can use to browse. See the link below:  
 [https://dougvm.github.io/plain-text/](https://dougvm.github.io/plain-text/)</sub>
+<sub>**Note:** some links might be broken, I'm working on improving that!</sub>
 
 ## Table of Contents
 
